@@ -3,15 +3,15 @@ ExploratoryDataAnalysis_CourseProject1
 
 The following files are for Course Project 1:
 
-plot1.R
-plot2.R
-plot3.R
-plot4.R
+1. plot1.R
+2. plot2.R
+3. plot3.R
+4. plot4.R
 
 Output files created include:
 
-plot1.png
-plot2.png
-plot3.png
-plot4.png
+1. plot1.png
+2. plot2.png
+3. plot3.png
+4. plot4.png
 
