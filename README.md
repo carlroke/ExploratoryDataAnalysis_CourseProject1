@@ -14,4 +14,3 @@ Output files created include:
 2. plot2.png
 3. plot3.png
 4. plot4.png
-
